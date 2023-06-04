@@ -10,7 +10,7 @@ function startTypingInterval(channelId) {
   }, 8000);
 
   let obj = targets.find((x) => x.channelId === channelId);
-  if (!targets.some((x) => x.channelId === channelId)) {
+  if (obj === undefined) {
     targets.push({ intervalId, channelId });
   } else {
     obj.intervalId = intervalId;
