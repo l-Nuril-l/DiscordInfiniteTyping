@@ -1,3 +1,9 @@
+Вот эта хуйня изобретена укропами блять. Взята буквально с боем блять нахуй. Вот вы можете представить себе больное воображение человека который эту ебалу создал.
+"+" клавиша: Начать печать или добавить его в список активных каналов.
+"-" клавиша: Поставить на паузу печать во всех активных каналах.
+"/" клавиша: Остановить печать в текущем канале и удалить его из списка активных каналов.
+"*" клавиша: Просмотреть текущий статус симуляции печати и список активных каналов.
+
 # This is a JavaScript program that allows you to simulate typing in Discord channels. It provides the following functionality:
 
 + Start/Adding a Channel: Press the "+" key to start typing in the current channel or add it to the list of active channels.
@@ -16,3 +22,5 @@
 + "-" key: Pause typing in all active channels.
 + "/" key: Stop typing in the current channel and remove it from the list of active channels.
 + "*" key: View the current status of the typing simulation and a list of active channels.
+
+P.S. The API limitations of Discord may lead to exceeding the limits if you simulate typing on a large number of channels simultaneously. It is recommended to use this functionality on only 1-2 channels at a time to avoid issues with API limits.
