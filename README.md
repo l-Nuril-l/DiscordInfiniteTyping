@@ -23,4 +23,4 @@
 + "/" key: Stop typing in the current channel and remove it from the list of active channels.
 + "*" key: View the current status of the typing simulation and a list of active channels.
 
-P.S. The API limitations of Discord may lead to exceeding the limits if you simulate typing on a large number of channels simultaneously. It is recommended to use this functionality on only 1-2 channels at a time to avoid issues with API limits.
+P.S. The API limitations of Discord may lead to exceeding the limits if you simulate typing on a large number of channels simultaneously. It is recommended to use this functionality maximum on few channels at a time to avoid issues with API limits.
